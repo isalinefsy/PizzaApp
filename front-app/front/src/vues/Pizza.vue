@@ -10,7 +10,6 @@
       width="fill"
       height="hug"
       align="center-left"
-      style="margin-bottom: 1rem"
     >
       <FSSpan font="text-h3" :label="'Liste des Pizzas'" />
     </FSRow>
